@@ -1,0 +1,29 @@
+{
+    "students": [
+      {
+        "student_id": 1,
+        "student_name": "Alice Johnson",
+        "student_class": "10A"
+      },
+      {
+        "student_id": 2,
+        "student_name": "Bob Smith",
+        "student_class": "10B"
+      },
+      {
+        "student_id": 3,
+        "student_name": "Charlie Brown",
+        "student_class": "11A"
+      },
+      {
+        "student_id": 4,
+        "student_name": "Daisy Ridley",
+        "student_class": "11B"
+      },
+      {
+        "student_id": 5,
+        "student_name": "Ethan Hunt",
+        "student_class": "12A"
+      }
+    ]
+  }
